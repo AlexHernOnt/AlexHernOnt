@@ -3,6 +3,7 @@
 - 🌱 I studied Videogame Design and Develpment at UDIT University
 - 📖 And also Software at 42 Madrid Fundación Telefónica
 - 🔭 I’m currently working on Qaracter
+
 <!--
 **AlexHernOnt/AlexHernOnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
