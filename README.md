@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">🌱 I studied Videogame Design and Develpment at UDIT University<br>📚 📖 And also Software at 42 Madrid Fundación Telefónica.<br>🔭 I’m currently working on Qaracter</p>
+<p align="left">🌱 I studied Videogame Design and Develpment at UDIT University<br>📖 And also Software at 42 Madrid Fundación Telefónica.<br>🔭 I’m currently working on Qaracter</p>
 
 
 
