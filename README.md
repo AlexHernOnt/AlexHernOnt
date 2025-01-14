@@ -1,6 +1,7 @@
 ## Hi there I am Alex👋
 
-
+- 🌱 I studied Videogame Design and Develpment at UDIT University
+- 📖 And also Software at 42 Madrid Fundación Telefónica
 - 🔭 I’m currently working on Qaracter
 <!--
 **AlexHernOnt/AlexHernOnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,11 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/AlexHernOnt/count.svg?"  />
